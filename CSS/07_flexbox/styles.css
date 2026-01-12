@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+header {
+  background: purple;
+  
+}
+h1 {
+  text-align: center;
+  color: white;
+
+  margin: 0;
+}
+section {
+  zoom: 0.8;
+  
+
+}
+article {
+  padding: 20px;
+  margin: 20px;
+  background: aqua;
+}
+/* Add your flexbox CSS below here */
